@@ -1,0 +1,4 @@
+C:\Users\soto_\OneDrive\Documentos\ApiFestivos-master\ApiFestivos.Application\obj\Debug\net8.0\ApiFestivos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soto_\OneDrive\Documentos\ApiFestivos-master\ApiFestivos.Application\obj\Debug\net8.0\ApiFestivos.Application.AssemblyInfoInputs.cache
+C:\Users\soto_\OneDrive\Documentos\ApiFestivos-master\ApiFestivos.Application\obj\Debug\net8.0\ApiFestivos.Application.AssemblyInfo.cs
+C:\Users\soto_\OneDrive\Documentos\ApiFestivos-master\ApiFestivos.Application\obj\Debug\net8.0\ApiFestivos.Application.csproj.CoreCompileInputs.cache
